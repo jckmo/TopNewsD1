@@ -1,6 +1,6 @@
 # TopNewsD1
 
-This is the TopNewsD1 gem. This gem will pull the latest stories from NCAA D1 basketball.
+This is the TopNewsD1 gem. This gem will pull the latest stories from NCAA D1 basketball and output them directly to your terminal!
 
 ## Installation
 

@@ -1,6 +1,8 @@
-require "TopNewsD1/version"
+require 'open-uri'
+require 'nokogiri'
+require 'pry'
 
-module TopNewsD1
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative './TopNewsD1/version'
+require_relative './TopNewsD1/cli'
+require_relative './TopNewsD1/stories'
+require_relative './TopNewsD1/scraper'
