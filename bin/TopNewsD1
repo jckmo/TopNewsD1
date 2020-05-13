@@ -3,4 +3,5 @@
 require "bundler/setup"
 require "TopNewsD1"
 
+
 TopNewsD1::CLI.new.call
